@@ -1,0 +1,5 @@
+names:
+- nail
+nc: 1
+train: E:\ultralytics-main\archive\images\train
+val: E:\ultralytics-main\archive\images\val
